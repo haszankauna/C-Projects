@@ -27,8 +27,14 @@ int main(){
 
 
     std::string name = "Kauna";
+    std::string day = "Friday";
+    std::string food = "Pizza";
+    std::string address = "no 5 hans street";
 
-    std::cout << name;
+
+
+    std::cout << "Hello " << name << '\n';
+    std::cout << "You are " << age << "years old";
 
 
 
