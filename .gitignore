@@ -1,6 +1,6 @@
-**/vscode
-**/age.dSYM
-**/const.dSYM
-**/hello.dSYM
-**/helloworld.dSYM
-**/namespace.dSYM
+vscode/
+age.dSYM/
+const.dSYM/
+hello.dSYM/
+helloworld.dSYM/
+namespace.dSYM/
